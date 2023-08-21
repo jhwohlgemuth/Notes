@@ -20,10 +20,8 @@ Tags: []
 > [230620](230620.md#) [NGA](NGA.md#) (Mark Munsell) visited [Meta](Meta.md#), [Google](Google.md#), [OpenAI](OpenAI.md#), [Microsoft](Microsoft.md#), and Anthropic and said they all said “*bigger is better*”, also mixing text and image is the next phase for improvement
 
 > [!NOTE] 
-> ![llm_numbers.png](llm_numbers.png#)
+> ![3 Resources/__attachments/media/llm_numbers.png](../../../../3%20Resources/__attachments/media/llm_numbers.png#)
 > https://github.com/ray-project/llm-numbers
-
-![3 Resources/__attachments/media/llm/create_your_own_custom_llm_chatbot.jpeg](../../../../3%20Resources/__attachments/media/create_your_own_custom_llm_chatbot.jpeg#)
 ## (Current) Issues with LLMs
 -  Efficiency
 -  Updateability
